@@ -1,0 +1,85 @@
+.btn-primary,
+.btn-primary:hover, 
+.btn-primary:active, 
+.btn-primary:visited {
+    background-color: #072125;
+    border: #072125;
+}
+
+.btn-custom, 
+.btn-custom:hover, 
+.btn-custom:active, 
+.btn-custom:visited  {
+    background-color: #B8E4DA;
+}
+.card-img-top {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.card {
+    border-radius: 1em;
+    padding: 2.5em 1em 1em;
+}
+
+
+.bgc-container, 
+.bgc-container:hover {
+    background-color: #072125;
+}
+
+
+.text-color-custom {
+    color: #072125;
+}
+
+.price-card {
+    height: 100%;
+}
+
+hr{
+    width: 97%;
+    margin-left: 1em;
+}
+
+.tab-section {
+    position: relative;
+}
+
+
+.line1{
+    position: absolute;
+    left: 96px;
+    bottom: 52px;
+} 
+.add_collabs{
+    position: absolute;
+    left: 96px;
+    bottom: 20px; 
+}
+.line2{
+    position: absolute;
+    left: 507px;
+    bottom: 364px;
+}
+.new_feature_added{
+    position: absolute;
+    left: 609px;
+    bottom: 466px;
+}
+
+.line3{
+    position: absolute;
+    left: 462px;
+    bottom: 48px;
+}
+
+.edit_canvas{
+    position: absolute;
+    left: 462px;
+    bottom: 33px; 
+}
+
+.t-class {
+    font-size: 3rem;
+}

@@ -1,0 +1,22 @@
+body {
+    background-color: #DCF2ED;
+}
+
+.btn-custom, 
+.btn-custom:hover, 
+.btn-custom:active, 
+.btn-custom-visited  {
+    background-color: #072125;
+}
+
+.color.custom {
+    color: #072125;
+}
+
+.bg-custom {
+    background-color: white;
+}
+
+.bg-custom:checked {
+    background-color: #072125;
+}
